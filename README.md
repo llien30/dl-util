@@ -1,4 +1,4 @@
-# Collection Utility Functions For Deep Learning Researchers
+# Utility Functions For Deep Learning Researchers
 
 ## Installation
 To install, type
