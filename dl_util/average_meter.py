@@ -1,3 +1,9 @@
+"""
+Copyright (c) 2021 Mana Masuda
+This software is released under the MIT License, see LICENSE.
+"""
+
+
 class AverageMeter(object):
     """Computes and stores the average and current value"""
 

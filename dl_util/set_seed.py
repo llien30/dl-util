@@ -1,3 +1,8 @@
+"""
+Copyright (c) 2021 Mana Masuda
+This software is released under the MIT License, see LICENSE.
+"""
+
 import os
 import random
 

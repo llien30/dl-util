@@ -16,3 +16,9 @@ This is the collection of utility functions for deep learning researchers:
 * Get Optimizer and Scheduler (if needed)
 
 Other functions and more detailed documentation will be added.
+
+## License
+The dl_util module is written and maintained by Mana Masuda.
+dl_util is released under the MIT license.
+
+See the file LICENSE for more details.
