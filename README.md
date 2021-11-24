@@ -22,3 +22,6 @@ The dl_util module is written and maintained by Mana Masuda.
 dl_util is released under the MIT license.
 
 See the file LICENSE for more details.
+
+## Reference
+[pytorch_template](https://github.com/yiskw713/pytorch_template)([yiskw713](https://github.com/yiskw713))
